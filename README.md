@@ -149,10 +149,25 @@ Computer vision API for automated image-based damage detection.
 
 **Pipeline**
 
-Image → Object Detection → Damage Classification →
-Structured Output → API
+Image → Object Detection → Damage Classification → Structured Output → API
 
 **Tech:** YOLO | Python | FastAPI | Docker | MLOps
+
+---
+
+## 🔭 Currently Exploring
+Agentic AI
+Multi-Agent Systems
+MCP
+Foundation Models
+LLM Evaluation
+AI Observability
+
+---
+
+## 💡 AI Engineering Philosophy
+> Build AI systems that are intelligent, measurable,
+> scalable and production-ready.
 
 ---
 
@@ -168,3 +183,13 @@ FastAPI       Streamlit     Git
 AWS           Azure         GCP
 Databricks    Snowflake     Spark
 FAISS         Pinecone      ChromaDB
+
+---
+
+## 🛠️ Technology Stack
+Python | LangChain | LangGraph | AWS | Azure | GCP | ...
+
+---
+
+## 📫 Connect
+LinkedIn | Email | Portfolio
