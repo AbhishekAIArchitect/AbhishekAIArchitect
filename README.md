@@ -46,7 +46,7 @@ MLOps and cloud-based AI systems.**
 ### AI Application Development
 
 `Python` `FastAPI` `Streamlit`
-`REST APIs` `SQL`
+`REST APIs` `SQL` `MCP` `A2A`
 
 ---
 
@@ -183,11 +183,6 @@ FastAPI       Streamlit     Git
 AWS           Azure         GCP
 Databricks    Snowflake     Spark
 FAISS         Pinecone      ChromaDB
-
----
-
-## 🛠️ Technology Stack
-Python | LangChain | LangGraph | AWS | Azure | GCP | ...
 
 ---
 
