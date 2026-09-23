@@ -186,5 +186,5 @@ FAISS         Pinecone      ChromaDB
 
 ---
 
-## 📫 Connect
+# 📫 Connect
 LinkedIn | Email | Portfolio
