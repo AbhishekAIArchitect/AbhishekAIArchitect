@@ -62,9 +62,13 @@ MLOps and cloud-based AI systems.**
 ### Vector Databases
 `FAISS` `Pinecone` `ChromaDB` `Weaviate`
 
----
 
-🚀 Featured Production AI Systems
+
+
+
+
+# 🔥 Featured Projects
+
 
 🏥 Pharma Commercial Intelligence Agentic Platform
 
@@ -162,13 +166,10 @@ Cloud-native architecture
 
 Audit logging
 Explainable recommendations
+
+
 Tech: Python | LangGraph | LangChain | Azure OpenAI | RAG | Vector Search | SQL | Databricks | MLflow | FastAPI | Docker | Kubernetes | Azure | Power BI
 
-
-
----
-
-# 🔥 Featured Projects
 
 ## 🤖 Enterprise RAG Assistant
 
