@@ -116,33 +116,29 @@ Specialized Agents
 
 End-to-End Production Pipeline
 
-Raw Enterprise Data
-        ↓
+Enterprise Data
+      ↓
 Data Ingestion
-        ↓
-Data Validation
-        ↓
-Feature Engineering
-        ↓
-ML Models + Knowledge Base
-        ↓
-RAG Pipeline
-        ↓
-Agentic Orchestration
-        ↓
-Tool Calling / MCP
-        ↓
-Agent Evaluation
-        ↓
-FastAPI Services
-        ↓
-Docker Containers
-        ↓
-Cloud / Kubernetes
-        ↓
-Monitoring & Observability
-        ↓
-Continuous Improvement
+      ↓
+Data Quality
+      ↓
+ ┌────┴────┐
+ ↓         ↓
+ML        RAG
+ ↓         ↓
+ └────┬────┘
+      ↓
+Agentic Orchestrator
+      ↓
+Specialized Agents
+      ↓
+Validation
+      ↓
+FastAPI
+      ↓
+Cloud
+      ↓
+Monitoring
 
 Production Capabilities
 
