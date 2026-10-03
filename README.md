@@ -64,6 +64,110 @@ MLOps and cloud-based AI systems.**
 
 ---
 
+🚀 Featured Production AI Systems
+
+🏥 Pharma Commercial Intelligence Agentic Platform
+
+Production-grade Agentic AI platform for pharmaceutical commercial teams combining RAG, predictive ML, multi-agent orchestration and business intelligence.
+The platform enables teams to analyze HCP/customer behavior, marketing effectiveness, sales performance and generate data-driven next-best-action recommendations.
+
+Business Architecture
+
+CRM / Sales / Claims / Marketing / Medical Data
+                    ↓
+            Data Ingestion Layer
+                    ↓
+        Data Quality & Governance
+                    ↓
+       Feature & Knowledge Layer
+             ↙            ↘
+      ML Models          RAG Pipeline
+             ↘            ↙
+          Agentic AI Orchestrator
+                    ↓
+      ┌─────────────┼─────────────┐
+      ↓             ↓             ↓
+ Research       Analytics      Recommendation
+   Agent          Agent             Agent
+      ↓             ↓             ↓
+      └─────────────┼─────────────┘
+                    ↓
+          Critic / Validation Agent
+                    ↓
+          Business Decision Layer
+                    ↓
+        FastAPI / Web Application
+                    ↓
+            Enterprise Users
+
+Specialized Agents
+
+🔬 Medical Research Agent — retrieves evidence from scientific and medical knowledge bases
+👤 HCP Intelligence Agent — analyzes HCP/customer behavior and history
+📊 Campaign Analytics Agent — evaluates marketing campaign performance
+🤖 Prediction Agent — invokes ML models for propensity and sales prediction
+🎯 Recommendation Agent — generates next-best-action recommendations
+🛡️ Compliance Agent — validates responses against business and compliance rules
+🔍 Critic Agent — validates factual grounding and recommendation quality
+
+End-to-End Production Pipeline
+
+Raw Enterprise Data
+        ↓
+Data Ingestion
+        ↓
+Data Validation
+        ↓
+Feature Engineering
+        ↓
+ML Models + Knowledge Base
+        ↓
+RAG Pipeline
+        ↓
+Agentic Orchestration
+        ↓
+Tool Calling / MCP
+        ↓
+Agent Evaluation
+        ↓
+FastAPI Services
+        ↓
+Docker Containers
+        ↓
+Cloud / Kubernetes
+        ↓
+Monitoring & Observability
+        ↓
+Continuous Improvement
+
+Production Capabilities
+
+Multi-agent orchestration using LangGraph
+Enterprise RAG and hybrid/vector retrieval
+Tool calling for SQL, APIs and ML models
+MCP-based tool integration
+Human-in-the-loop approval workflows
+RBAC and enterprise authentication
+PII/PHI protection
+Prompt and agent version management
+LLM evaluation and groundedness checks
+Hallucination detection
+Model monitoring and drift detection
+Agent observability
+Distributed tracing
+CI/CD pipelines
+Docker and Kubernetes deployment
+
+Cloud-native architecture
+
+Audit logging
+Explainable recommendations
+Tech: Python | LangGraph | LangChain | Azure OpenAI | RAG | Vector Search | SQL | Databricks | MLflow | FastAPI | Docker | Kubernetes | Azure | Power BI
+
+
+
+---
+
 # 🔥 Featured Projects
 
 ## 🤖 Enterprise RAG Assistant
