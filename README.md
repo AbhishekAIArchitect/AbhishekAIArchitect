@@ -1,6 +1,5 @@
 # Hi, I'm Abhishek_AI_Architect   👋
 
-### AI & Data Science Architect | GenAI | Agentic AI | LLMs | RAG | MLOps
 
 I build production-oriented AI and Machine Learning solutions focused on
 **Generative AI, Agentic AI, LLM applications, RAG, predictive analytics,
